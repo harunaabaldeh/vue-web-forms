@@ -7,7 +7,7 @@ export default {
 </script>
 
 <template>
-  <h1>Web Forms</h1>
+  <h1>Login</h1>
   <SignupForm />
 </template>
 
